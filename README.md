@@ -36,6 +36,6 @@ Join us on this journey of analytical exploration and innovation. 🚀🔍
 
 ## Acknowledgments
 
-Special thanks to the Kaggle community for providing the dataset and all contributors to this project.
+Special thanks to the Kaggle community for providing the dataset.
 
 Happy coding! 🌐🏡📈
