@@ -1,6 +1,6 @@
 # Real Estate Price Prediction Website
 
-Welcome to the Real Estate Price Prediction Website project repository! This project provides a comprehensive guide on constructing a predictive model for real estate prices using sklearn and linear regression. The dataset used is sourced from Kaggle, specifically the Bangalore home prices dataset, boasting a substantial 13,321 data points to enhance model precision.
+Welcome to the Real Estate Price Prediction Website project repository! This project is a predictive model for real estate prices using sklearn and linear regression. The dataset used is sourced from Kaggle, specifically the Bangalore home prices dataset, boasting a substantial 13,321 data points to enhance model precision.
 ![image](https://github.com/isanthosh2004/Real_estate_price_predictor/assets/112749784/bee08c11-8fcc-4f66-a858-214c95c51e4d)
 
 
@@ -28,11 +28,6 @@ The project utilizes a robust technological framework, including:
 - Python Flask for setting up the HTTP server
 - HTML, CSS, and JavaScript for an intuitive user interface
 
-## Getting Started
-
-To explore and run the project locally, follow the steps outlined in the documentation. Feel free to dive into the codebase, providing valuable insights into the intricate process of transforming data into actionable predictions.
-
-Join us on this journey of analytical exploration and innovation. 🚀🔍
 
 ## Acknowledgments
 
